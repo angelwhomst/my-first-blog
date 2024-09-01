@@ -1,0 +1,94 @@
+.page-header {
+    background-color: #597445;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1,
+.page-header h1 a,
+.page-header h1 a:visited,
+.page-header h1 a:active {
+    color: #E7F0DC;
+    font-size: 36pt;
+    text-decoration: none;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h2,
+h3,
+h4 {
+    color: #597445;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 10px;
+}
+
+.date {
+    color: #729762;
+    text-align: left;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea,
+.post-form input {
+    width: 100%;
+}
+.top-menu,
+.top-menu:hover,
+.top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h2 a,
+.post h2 a:visited, 
+.post h2 a:hover,
+.post h2 a:active {
+    color: #597445;
+    text-decoration: none;
+}
+
+
+
+.post > .date,
+.post > .actions {
+    float: none;
+    display: block;
+    /* margin-right: 50px;  */
+    padding-bottom: 5px;
+
+}
+
+.btn-secondary,
+.btn-secondary:visited {
+    color: #597445;
+    background: none;
+    border-color: #597445;
+}
+
+.btn-secondary:hover {
+    color: #FFFFFF;
+    background-color: #597445;
+}
+
+body {
+    padding-left: 15px;
+}
